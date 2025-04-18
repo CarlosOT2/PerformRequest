@@ -1,0 +1,35 @@
+{
+  "name": "performrequest",
+  "version": "1.0.0",
+  "description": "after i do that",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlosOT2/PerformRequest.git"
+  },
+  "keywords": [
+    "utils",
+    "util",
+    "http",
+    "https",
+    "client",
+    "request",
+    "fetch",
+    "rest",
+    "api",
+    "api-rest",
+    "front"
+  ],
+  "author": "CarlosOT2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosOT2/PerformRequest/issues"
+  },
+  "homepage": "https://github.com/CarlosOT2/PerformRequest#readme"
+}
