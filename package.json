@@ -1,11 +1,8 @@
 {
   "name": "performrequest",
   "version": "1.0.0",
-  "description": "after i do that",
+  "description": "Perform requests to an API",
   "main": "index.js",
-  "directories": {
-    "doc": "docs"
-  },
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
   },
@@ -31,5 +28,5 @@
   "bugs": {
     "url": "https://github.com/CarlosOT2/PerformRequest/issues"
   },
-  "homepage": "https://github.com/CarlosOT2/PerformRequest#readme"
+  "homepage": "https://github.com/CarlosOT2/PerformRequest"
 }
