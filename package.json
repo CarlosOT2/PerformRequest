@@ -1,6 +1,6 @@
 {
   "name": "performrequest",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Perform requests to an API",
   "type": "module",
   "main": "src/PerformRequest.js",
@@ -9,23 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CarlosOT2/PerformRequest.git"
+    "url": "git+https://github.com/CarlosOT2/PerformRequest.git"
   },
   "keywords": [
-    "utils",
     "util",
     "http",
-    "https",
     "client",
     "request",
     "req",
     "fetch",
     "rest",
     "api",
-    "API",
-    "api-rest",
     "front",
-    "frontend",
     "front-end"
   ],
   "author": "CarlosOT2",
