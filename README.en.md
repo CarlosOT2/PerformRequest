@@ -5,6 +5,12 @@ the response returned by the API must be in JSON format,
 <br/>
 otherwise the function won't be able to parse it.
 
+
+<h3> Install </h3>
+to install the package, run the command <code>npm i performrequest</code>.
+<br/>
+to import; <code>import { PerformRequest } from 'performrequest'</code>
+
 <h3> Properties </h3>
   <ul>
     <li><b>fetch;</b> contains fetch options, same as regular fetch.

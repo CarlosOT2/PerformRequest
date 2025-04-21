@@ -7,6 +7,12 @@ a response retornada pela API deve estar no formato JSON,
 <br/>
 ou ele não poderá converter a response corretamente.
 
+<h3> Instalação </h3>
+
+para instalar o pacote, execute o comando <code>npm i performrequest</code>.
+<br/>
+para importar; <code>import { PerformRequest } from 'performrequest'</code>
+
 <h3> Propriedades </h3>
   <ul>
     <li><b>fetch;</b> contém as opções do fetch, igual ao fetch comum.
