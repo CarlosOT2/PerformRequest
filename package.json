@@ -1,6 +1,6 @@
 {
   "name": "performrequest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Perform requests to an API",
   "type": "module",
   "main": "src/PerformRequest.js",
