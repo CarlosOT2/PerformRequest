@@ -2,7 +2,8 @@
   "name": "performrequest",
   "version": "1.0.0",
   "description": "Perform requests to an API",
-  "main": "index.js",
+  "type": "module",
+  "main": "src/PerformRequest.js",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0"
   },
@@ -17,11 +18,15 @@
     "https",
     "client",
     "request",
+    "req",
     "fetch",
     "rest",
     "api",
+    "API",
     "api-rest",
-    "front"
+    "front",
+    "frontend",
+    "front-end"
   ],
   "author": "CarlosOT2",
   "license": "MIT",
